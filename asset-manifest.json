@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/24th-conference/static/css/main.7acaea2f.css",
-    "main.js": "/24th-conference/static/js/main.07d3183d.js",
+    "main.css": "/24th-conference/static/css/main.e8bb29f3.css",
+    "main.js": "/24th-conference/static/js/main.cc9f3d04.js",
     "index.html": "/24th-conference/index.html",
-    "main.7acaea2f.css.map": "/24th-conference/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/24th-conference/static/js/main.07d3183d.js.map"
+    "main.e8bb29f3.css.map": "/24th-conference/static/css/main.e8bb29f3.css.map",
+    "main.cc9f3d04.js.map": "/24th-conference/static/js/main.cc9f3d04.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.e8bb29f3.css",
+    "static/js/main.cc9f3d04.js"
   ]
 }
